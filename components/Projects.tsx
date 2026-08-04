@@ -33,7 +33,7 @@ export default function Projects() {
               
               <div className="flex flex-wrap gap-2 pt-2">
                 {project.techStack.map((tech, i) => (
-                  <span key={i} className="px-3 py-1 bg-slate-100 dark:bg-slate-800 text-slate-600 dark:text-slate-300 text-sm font-medium rounded-md">
+                  <span key={i} className="px-3 py-1 bg-slate-200 dark:bg-slate-800 text-slate-600 dark:text-slate-300 text-sm font-medium rounded-md">
                     {tech}
                   </span>
                 ))}
