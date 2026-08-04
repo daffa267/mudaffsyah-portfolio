@@ -4,7 +4,7 @@ import { ThemeProvider } from "@/components/ThemeProvider"; // Pastikan baris in
 
 export const metadata: Metadata = {
   title: "M. Mudaffarsyah | Portfolio",
-  description: "AI Engineer & Full Stack Developer",
+  description: "Software Developer | ML Engineer",
 };
 
 export default function RootLayout({
