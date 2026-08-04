@@ -10,7 +10,7 @@ export default function Navbar() {
   useEffect(() => setMounted(true), []);
 
   return (
-    <nav className="sticky top-0 z-50 w-full bg-slate-50/80 dark:bg-slate-950/80 backdrop-blur-md border-b border-slate-200 dark:border-slate-800 transition-colors">
+    <nav className="sticky top-0 z-50 w-full bg-slate-50/50 dark:bg-slate-950/50 backdrop-blur-md border-b border-slate-200 dark:border-slate-800 transition-colors">
       <div className="w-full max-w-7xl mx-auto px-6 md:px-8 py-4 flex justify-between items-center">
         
         <a href="#home" className="text-xl font-bold text-slate-800 dark:text-slate-100 z-10">
@@ -18,7 +18,7 @@ export default function Navbar() {
         </a>
 
         <div className="hidden md:flex flex-1 items-center justify-center">
-          <ul className="flex space-x-10 text-md font-semibold text-slate-600 dark:text-slate-300">
+          <ul className="flex space-x-10 text-sm font-semibold text-slate-600 dark:text-slate-300">
             <li><a href="#home" className="hover:text-indigo-600 dark:hover:text-indigo-400 transition-colors">Home</a></li>
             <li><a href="#about" className="hover:text-indigo-600 dark:hover:text-indigo-400 transition-colors">About</a></li>
             <li><a href="#skills" className="hover:text-indigo-600 dark:hover:text-indigo-400 transition-colors">Skills</a></li>

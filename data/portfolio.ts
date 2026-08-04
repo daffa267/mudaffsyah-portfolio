@@ -1,7 +1,7 @@
 export const personalInfo = {
   name: "M. Mudaffarsyah",
   title: "Software Developer | Machine Learning Engineer",
-  tagline: "Always learn and explore new technologies",
+  tagline: "OPEN TO WORK",
   about: "Software Developer and Machine Learning Engineer with hands-on experience in developing AI-powered web, mobile, and backend applications. Skilled in building end-to-end machine learning pipelines using PyTorch, developing scalable backend services with FastAPI and Laravel, and creating modern web applications with Next.js. Experienced in integrating machine learning models into software applications, designing RESTful APIs, and working with SQL and NoSQL databases. Passionate about building intelligent, scalable, and impactful software solutions."
 };
 
