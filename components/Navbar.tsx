@@ -14,7 +14,7 @@ export default function Navbar() {
       <div className="w-full max-w-7xl mx-auto px-6 md:px-8 py-4 flex justify-between items-center">
         
         <a href="#home" className="text-xl font-bold text-slate-800 dark:text-slate-100 z-10">
-          Mudaff<span className="text-indigo-600 dark:text-indigo-400">syah.</span>
+          Mudff-<span className="text-indigo-600 dark:text-indigo-400">syh.</span>
         </a>
 
         <div className="hidden md:flex flex-1 items-center justify-center">

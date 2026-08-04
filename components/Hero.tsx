@@ -6,8 +6,8 @@ export default function Hero() {
     <div className="flex flex-col-reverse md:flex-row items-center justify-between gap-8">
       <div className="flex-1 space-y-4 text-center md:text-left">
         <h2 className="text-2xl font-medium text-indigo-600 dark:text-indigo-400">Hello, i'm</h2>
-        <h1 className="text-2xl md:text-6xl font-bold text-slate-800 dark:text-slate-50">{personalInfo.name}</h1>
-        <h3 className="text-2xl font-semibold text-slate-600 dark:text-slate-300">{personalInfo.title}</h3>
+        <h1 className="text-4xl md:text-6xl font-bold text-slate-800 dark:text-slate-50">{personalInfo.name}</h1>
+        <h3 className="text-xl font-semibold text-slate-600 dark:text-slate-300">{personalInfo.title}</h3>
         <p className="text-indigo-500 dark:text-indigo-400 text-lg font-bold leading-relaxed max-w-xl">
           {personalInfo.tagline}
         </p>
