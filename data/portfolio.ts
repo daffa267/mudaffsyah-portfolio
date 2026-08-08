@@ -48,17 +48,17 @@ export const projects = [
   },
   {
     id: 6,
-    link: "https://github.com/",
+    link: "https://github.com/Zyzero1/quiz-app-flutter",
     title: "QUIZ IN QUIZ OUT (QIQO)",
     description: "A real-time quiz application featuring multiple subjects, live leaderboards, and interactive gameplay to enhance student engagement and learning.",
     techStack: ["Flutter", "Dart", "Firebase"],
-    image: "/images/",
+    image: "/images/konten6.png",
   }
 ];
 
 export const educationData = [
   {
-    degree: "Bachlor's degree - Informatics Engineering",
+    degree: "Bachelor of Engineering, Informatics Engineering",
     institution: "Raja Ali Haji Maritime University",
     period: "Sep 2022 - Sep 2026",
     description: "Focused on software engineering with experience in developing web and mobile applications, complemented by AI/Machine Learning and distributed systems through academic projects and research."
