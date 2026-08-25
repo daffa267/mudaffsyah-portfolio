@@ -16,7 +16,7 @@ export default function Hero() {
           <a href="#contact" className="px-8 py-3 bg-indigo-600 dark:bg-indigo-500 text-white rounded-full font-medium hover:bg-indigo-700 hover:shadow-lg transition-all text-center">
             Hire Me
           </a>
-          <a href="/documents/M.MUDAFFARSYAH_CV.pdf" className="px-8 py-3 bg-white dark:bg-slate-900 text-slate-700 dark:text-slate-300 rounded-full font-medium border border-indigo-200 dark:border-indigo-400/80 hover:bg-indigo-100 dark:hover:bg-indigo-500/30 transition-all text-center">
+          <a href="/documents/ATS_CV.pdf" className="px-8 py-3 bg-white dark:bg-slate-900 text-slate-700 dark:text-slate-300 rounded-full font-medium border border-indigo-200 dark:border-indigo-400/80 hover:bg-indigo-100 dark:hover:bg-indigo-500/30 transition-all text-center">
             Download CV
           </a>
         </div>
