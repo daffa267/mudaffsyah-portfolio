@@ -1,8 +1,8 @@
 export const personalInfo = {
   name: "M. Mudaffarsyah",
-  title: "Software Developer | Machine Learning Engineer",
+  title: "Software Developer | Machine Learning Enthusiast",
   tagline: "OPEN TO WORK",
-  about: "Software Developer and Machine Learning Engineer with hands-on experience in developing AI-powered web, mobile, and backend applications. Skilled in building end-to-end machine learning pipelines using PyTorch, developing scalable backend services with FastAPI and Laravel, and creating modern web applications with Next.js. Experienced in integrating machine learning models into software applications, designing RESTful APIs, and working with SQL and NoSQL databases. Passionate about building intelligent, scalable, and impactful software solutions."
+  about: "Fresh graduate in Informatics Engineering with experience in developing software applications, including web and mobile platforms, as well as building and implementing Machine Learning and AI solutions for general and industrial applications. Passionate about leveraging technology to solve real-world problems and drive digital innovation."
 };
 
 export const projects = [
@@ -60,8 +60,8 @@ export const educationData = [
   {
     degree: "Bachelor of Engineering, Informatics Engineering",
     institution: "Raja Ali Haji Maritime University",
-    period: "Sep 2022 - Sep 2026",
-    description: "Focused on software engineering with experience in developing web and mobile applications, complemented by AI/Machine Learning and distributed systems through academic projects and research."
+    period: "Jul 2022 - Jun 2026",
+    description: "Focused on software development, machine learningFocused on software engineering with experience in developing web and mobile applications, complemented by AI/Machine Learning and distributed systems through academic projects and research."
   }
 ];
 
@@ -74,7 +74,7 @@ export const experienceData = [
     description: "Collaborated to design and develop government web applications. Led the UI/UX and frontend development for the Tanjungpinang Kota Website, and built the full-stack SKM system currently used by the City Government."
   },
   {
-    role: "Research Assistant",
+    role: "Research Team",
     organization: "Raja Ali Haji Maritime University",
     period: "Jul 2024 - Nov 2024",
     description: "Contributed to the frontend and backend development of De Grove, an AI-powered ecotourism mobile app for mangrove species identification in Desa Pengudang, and preprocessed image datasets to train the underlying machine learning models."  },
