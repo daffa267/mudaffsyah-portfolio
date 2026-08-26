@@ -68,7 +68,7 @@ export const educationData = [
 export const experienceData = [
   
   {
-    role: "Web Developer",
+    role: "Full-Stack Developer",
     organization: "Dinas Komunikasi dan Informatika Kota Tanjungpinang",
     period: "Jul 2025 - Sep 2025",
     description: "Collaborated to design and develop government web applications. Led the UI/UX and frontend development for the Tanjungpinang Kota Website, and built the full-stack SKM system currently used by the City Government."
