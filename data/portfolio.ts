@@ -2,7 +2,7 @@ export const personalInfo = {
   name: "M. Mudaffarsyah",
   title: "Software Developer | Machine Learning Enthusiast",
   tagline: "OPEN TO WORK",
-  about: "Fresh graduate in Informatics Engineering with experience in developing software applications, including web and mobile platforms, as well as building and implementing Machine Learning and AI solutions for general and industrial applications. Passionate about leveraging technology to solve real-world problems and drive digital innovation."
+  about: "Fresh graduate with a Bachelor's degree in Informatics Engineering and 3 months of internship experience as a Web Developer at the Communication and Informatics Office (Diskominfo) of Tanjungpinang City, specializing in building websites from requirements analysis, UI/UX design, to Front-End and Back-End development. Proficient in a tech stack including Figma, Vue.js, and Laravel. Experienced in developing mobile applications as part of a research team and final thesis project, with the ability to develop AI/Machine Learning models. Highly motivated with a strong drive to continuously learn and grow in a professional work environment. graduate in Informatics Engineering with experience in developing software applications, including web and mobile platforms, as well as building and implementing Machine Learning and AI solutions for general and industrial applications. Passionate about leveraging technology to solve real-world problems and drive digital innovation."
 };
 
 export const projects = [
