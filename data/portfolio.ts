@@ -68,20 +68,20 @@ export const educationData = [
 export const experienceData = [
   
   {
-    role: "Full-Stack Developer",
+    role: "Web Developer",
     organization: "Dinas Komunikasi dan Informatika Kota Tanjungpinang",
     period: "Jul 2025 - Sep 2025",
-    description: "Collaborated to design and develop government web applications. Led the UI/UX and frontend development for the Tanjungpinang Kota Website, and built the full-stack SKM system currently used by the City Government."
+    description: "Designed and developed the Community Satisfaction Survey (SKM) website and the Tanjungpinang Kota Subdistrict website using Figma, Tailwind CSS, and Vue.js. Handled the full development lifecycle, from initial design through to deployment. Delivered fully functional, production-ready websites."
   },
   {
     role: "Research Team",
     organization: "Raja Ali Haji Maritime University",
     period: "Jul 2024 - Nov 2024",
-    description: "Contributed to the frontend and backend development of De Grove, an AI-powered ecotourism mobile app for mangrove species identification in Desa Pengudang, and preprocessed image datasets to train the underlying machine learning models."  },
+    description: "Collected mangrove species data as the foundation for the application's dataset. Developed a computer vision-based mobile application for mangrove species identification. Implemented the application as a digital tool to support mangrove ecotourism in Pengudang Village."  },
   {
     role: "Practice Assistant",
     organization: "Raja Ali Haji Maritime University",
     period: "Mar 2024 - Jun 2024",
-    description: "Led database laboratory sessions, mentoring students in SQL implementation, providing technical guidance, and supervising practical competency assessments. to design and develop government web applications. Led the UI/UX and frontend development for the Tanjungpinang Kota Website, and built the full-stack SKM system currently used by the City Government."
+    description: "Delivered lectures on database systems throughout one semester. Guided and supervised students during practical/lab sessions. Oversaw the final competency examination."
   }
 ];
