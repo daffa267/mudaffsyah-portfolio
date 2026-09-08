@@ -27,7 +27,7 @@ export default function Projects() {
                   {project.title}
                 </h3>
               </a>
-              <p className="text-slate-600 dark:text-slate-400 text-md leading-relaxed">
+              <p className="text-slate-600 dark:text-slate-400 text-md leading-relaxed text-justify">
                 {project.description}
               </p>
               

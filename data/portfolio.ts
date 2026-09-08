@@ -27,7 +27,7 @@ export const projects = [
     link: "https://github.com/daffa267/web-survei",
     title: "Survei Kepuasan Masyarakat (SKM)",
     description: "A web-based survey system for collecting and analyzing public feedback on administrative services in real time.",
-    techStack: ["Tailwind CSS", "Vue.js", "Javascript", "E-government"],
+    techStack: ["Tailwind CSS", "Vue.js", "Figma"],
     image: "/images/konten4.png",
   },
   {
@@ -43,7 +43,7 @@ export const projects = [
     link: "https://github.com/daffa267/website-kelurahan",
     title: "Kelurahan Tanjungpinang Kota",
     description: "A community information website designed to introduce Tanjungpinang Kota Village and provide residents with easier access to public services and useful information.",
-    techStack: ["Laravel", "PHP", "E-government", "Tailwind CSS"],
+    techStack: ["Laravel", "Vue.js", "Tailwind CSS", "Figma"],
     image: "/images/konten5.png",
   },
   {
@@ -61,14 +61,14 @@ export const educationData = [
     degree: "Bachelor of Engineering, Informatics Engineering",
     institution: "Raja Ali Haji Maritime University",
     period: "Jul 2022 - Jun 2026",
-    description: "Focused on software development, machine learningFocused on software engineering with experience in developing web and mobile applications, complemented by AI/Machine Learning and distributed systems through academic projects and research."
+    description: "Thesis : Performance Analysis of Local Training in a Federated Learning System for Waste Type Classification Using the ResNet-18 Architecture"
   }
 ];
 
 export const experienceData = [
   
   {
-    role: "Web Developer",
+    role: "Web Developer Intern",
     organization: "Dinas Komunikasi dan Informatika Kota Tanjungpinang",
     period: "Jul 2025 - Sep 2025",
     description: "Designed and developed the Community Satisfaction Survey (SKM) website and the Tanjungpinang Kota Subdistrict website using Figma, Tailwind CSS, and Vue.js. Handled the full development lifecycle, from initial design through to deployment. Delivered fully functional, production-ready websites."
@@ -79,7 +79,7 @@ export const experienceData = [
     period: "Jul 2024 - Nov 2024",
     description: "Collected mangrove species data as the foundation for the application's dataset. Developed a computer vision-based mobile application for mangrove species identification. Implemented the application as a digital tool to support mangrove ecotourism in Pengudang Village."  },
   {
-    role: "Practice Assistant",
+    role: "Practice Assistant Database System",
     organization: "Raja Ali Haji Maritime University",
     period: "Mar 2024 - Jun 2024",
     description: "Delivered lectures on database systems throughout one semester. Guided and supervised students during practical/lab sessions. Oversaw the final competency examination."

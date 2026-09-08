@@ -9,7 +9,7 @@ export default function About() {
         <div className="h-px bg-slate-200 dark:bg-slate-800 flex-1"></div>
       </h2>
         <div className="bg-white/50 dark:bg-slate-900/50 p-8 rounded-2xl border border-indigo-300 dark:border-indigo-400/30 ">        
-        <p className="text-slate-600 dark:text-slate-400 leading-relaxed text-md">
+        <p className="text-slate-600 dark:text-slate-400 leading-relaxed text-md text-justify" >
           {personalInfo.about}
         </p>
       </div>

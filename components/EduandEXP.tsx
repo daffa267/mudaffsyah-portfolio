@@ -27,7 +27,7 @@ export default function EduAndExp() {
                   </span>
                   <h4 className="text-lg font-bold text-slate-800 dark:text-slate-100 pt-2">{item.degree}</h4>
                   <p className="text-md font-medium text-indigo-600 dark:text-indigo-400">{item.institution}</p>
-                  <p className="text-md text-slate-600 dark:text-slate-400 leading-relaxed">{item.description}</p>
+                  <p className="text-md text-slate-600 dark:text-slate-400 leading-relaxed text-justify">{item.description}</p>
                 </div>
               </div>
             ))}
@@ -50,7 +50,7 @@ export default function EduAndExp() {
                   </span>
                   <h4 className="text-lg font-bold text-slate-800 dark:text-slate-100 pt-2">{item.role}</h4>
                   <p className="text-md font-medium text-indigo-600 dark:text-indigo-400">{item.organization}</p>
-                  <p className="text-md text-slate-600 dark:text-slate-400 leading-relaxed">{item.description}</p>
+                  <p className="text-md text-slate-600 dark:text-slate-400 leading-relaxed text-justify">{item.description}</p>
                 </div>
               </div>
             ))}
