@@ -2,7 +2,7 @@ export const personalInfo = {
   name: "M. Mudaffarsyah",
   title: "Software Developer | Machine Learning Enthusiast",
   tagline: "OPEN TO WORK",
-  about: "Fresh graduate with a Bachelor's degree in Informatics Engineering and 3 months of internship experience as a Web Developer at the Communication and Informatics Office (Diskominfo) of Tanjungpinang City, specializing in building websites from requirements analysis, UI/UX design, to Front-End and Back-End development. Proficient in a tech stack including Figma, Vue.js, and Laravel. Experienced in developing mobile applications as part of a research team and final thesis project, with the ability to develop AI/Machine Learning models. Highly motivated with a strong drive to continuously learn and grow in a professional work environment. graduate in Informatics Engineering with experience in developing software applications, including web and mobile platforms, as well as building and implementing Machine Learning and AI solutions for general and industrial applications. Passionate about leveraging technology to solve real-world problems and drive digital innovation."
+  about: "Fresh graduate in Informatics Engineering with a focus on software development, particularly website and AI-based mobile application development. Experienced as a Web Developer Intern at Dinas Komunikasi dan Informatika Kota Tanjungpinang, and contributed to the development of an AI-based mobile application during a community service program. Highly interested in software development and ready to contribute in a professional work environment. "
 };
 
 export const projects = [
@@ -71,17 +71,17 @@ export const experienceData = [
     role: "Web Developer Intern",
     organization: "Dinas Komunikasi dan Informatika Kota Tanjungpinang",
     period: "Jul 2025 - Sep 2025",
-    description: "Designed and developed the Community Satisfaction Survey (SKM) website and the Tanjungpinang Kota Subdistrict website using Figma, Tailwind CSS, and Vue.js. Handled the full development lifecycle, from initial design through to deployment. Delivered fully functional, production-ready websites."
+    description: "Redesigned the Kelurahan Tanjungpinang Kota website with a new, user-friendly interface using Figma and Vue.js, serving 241K people. Built and developed the Kelurahan Tanjungpinang Kota survey website using Figma, Vue.js, and Laravel to digitize the survey process."
   },
   {
     role: "Research Team",
     organization: "Raja Ali Haji Maritime University",
     period: "Jul 2024 - Nov 2024",
-    description: "Collected mangrove species data as the foundation for the application's dataset. Developed a computer vision-based mobile application for mangrove species identification. Implemented the application as a digital tool to support mangrove ecotourism in Pengudang Village."  },
+    description: "Collected a mangrove species dataset for training the AI model. Built and developed an automated AI-based mangrove detection application to support ecotourism in Desa Pengudang."  },
   {
-    role: "Practice Assistant Database System",
+    role: "Database Systems Laboratory Assistant",
     organization: "Raja Ali Haji Maritime University",
     period: "Mar 2024 - Jun 2024",
-    description: "Delivered lectures on database systems throughout one semester. Guided and supervised students during practical/lab sessions. Oversaw the final competency examination."
+    description: "Taught fundamental database systems material to 60+ students. Assisted students with database systems lab work and supervised the final competency."
   }
 ];
